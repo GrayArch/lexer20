@@ -3,7 +3,7 @@
   <h1>Hi there, I'm <a href="https://twitter.com/toor_ctrl" target="_blank">MURIITHI</a> (root) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 <div align="center">
-  <h3>💻 <i>2nd.yr</i> Inf0rmation Techn0l0gy Undergraduate | :Africa: Nair0bi, Kenya </h3>  
+  <h3>💻 <i><h5>2nd.yr</h5></i> Inf0rmation Techn0l0gy Undergraduate | :Africa: Nair0bi, Kenya </h3>  
 </div>
 
 <!----------------------------------------------------Social links------------------------------------------->
