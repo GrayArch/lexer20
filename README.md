@@ -24,32 +24,6 @@
   <p>Besides programming, I love interacting with the Developer Community through Community Building, Organising or Speaking at meetups, workshops or hackathons.   </p>
   
 </div>
-
-
-<!------------------------------------------------------Experience----------------------------------->														
-<h2>Experience</h2>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Role</b></td>
-      <td><b>Company</b></td>
-      <td><b>Start Date</b></td>
-      <td><b>End Date</b></td>
-      <td><b>Duration</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-	    <td><a href="https://www.alxafrica.com/data-science//"><b>ALX Student </b></a></td>
-      <td><img alt="Alxafrica" src="" /></td>
-      <td>march</td>
-      <td>Present</td>
-      <td>-</td>
-    </tr>
-  </tbody>
-</table>
-
-	
 	
 	
 ---
