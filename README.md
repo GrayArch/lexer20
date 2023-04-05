@@ -24,10 +24,10 @@
   <p>Besides programming, I love interacting with the Developer Community through Community Building, Organising or Speaking at meetups, workshops or hackathons.   </p>
   
 </div>
-
+<--
 <h2>Social Links</h2>
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/toor_ctrl?color=1DA1F2&label=%40mrx&logo=Twitter&style=flat-square">
-
+--
 
 <!------------------------------------------------------Experience----------------------------------->														
 <h2>Experience</h2>
