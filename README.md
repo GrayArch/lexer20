@@ -59,7 +59,7 @@
 <a href="https://github.com/ctrl-root/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ctrl-root&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/ctrl-root/convoychat">
+<a href="https://github.com/ctrl-root">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ctrl-root&repo=convoychat" />
 </a>
   
