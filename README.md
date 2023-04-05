@@ -56,12 +56,7 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ctrl-root&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
    
-<a href="https://github.com/ctrl-root/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ctrl-root&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/ctrl-root">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ctrl-root&repo=convoychat" />
-</a>
+
   
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" >&nbsp;***My working tools...***
 <!-- Working Tools    -->
