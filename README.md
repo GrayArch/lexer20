@@ -56,10 +56,12 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ctrl-root&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctrl-root&show_icons=true&theme=transparent)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-root&layout=compact&theme=buefy&title_color=000)](https://github.com/anuraghazra/github-readme-stats)
-
-  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ctrl-root&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/ctrl-root/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ctrl-root&repo=convoychat" />
+</a>
   
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" >&nbsp;***My working tools...***
 <!-- Working Tools    -->
